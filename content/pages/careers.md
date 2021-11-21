@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-c
-    title: We’re growing fast
+    title: We’re growing fast?
     subtitle: You should join us.
     feature:
       type: ImageBlock
@@ -52,7 +52,8 @@ sections:
   - elementId: ''
     colors: colors-a
     quote: >-
-      ## Being part of this team has been incredible. We’ve fill each other’s gaps, and we go to lunch together :)
+      ## Being part of this team has been incredible. We’ve fill each other’s
+      gaps, and we go to lunch together :)
     name: Carla Rogers
     title: Someone from the team
     styles:
@@ -210,7 +211,9 @@ sections:
   - elementId: contact-form
     colors: colors-f
     title: Not seeing the right role? Contact us
-    text: We might have more roles soon, and we’ll contact you if we think there might be a good match
+    text: >-
+      We might have more roles soon, and we’ll contact you if we think there
+      might be a good match
     form:
       type: FormBlock
       elementId: contact-form
