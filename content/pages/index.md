@@ -73,7 +73,7 @@ sections:
       actions:
         justifyContent: flex-start
     backgroundImage:
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/photo-1608481337062-4093bf3ed404.jpeg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
