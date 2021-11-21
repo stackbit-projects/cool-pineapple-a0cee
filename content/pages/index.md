@@ -79,7 +79,7 @@ sections:
         type: Button
     feature:
       type: ImageBlock
-      url: /images/hero-1.png
+      url: /startup-nextjs-theme-screenshot.jpg
       altText: Image alt text
       caption: Image caption
     styles:
